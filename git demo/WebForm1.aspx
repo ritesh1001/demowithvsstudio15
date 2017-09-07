@@ -11,7 +11,7 @@
     <div>
     <h1>this is my git demo project</h1>
         <h2>test 1</h2>
-        <h2>test 2</h2>
+      
     </div>
     </form>
 </body>
